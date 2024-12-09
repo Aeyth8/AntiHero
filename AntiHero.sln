@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AntiHero", "AntiHero.vcxproj", "{96B7150C-1EA6-4BF0-917A-C392572F4408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96B7150C-1EA6-4BF0-917A-C392572F4408}.Release|x64.ActiveCfg = Release|x64
+		{96B7150C-1EA6-4BF0-917A-C392572F4408}.Release|x64.Build.0 = Release|x64
+		{96B7150C-1EA6-4BF0-917A-C392572F4408}.Release|x86.ActiveCfg = Release|Win32
+		{96B7150C-1EA6-4BF0-917A-C392572F4408}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1C32612-451D-4C58-8831-C4F6F211F20C}
+	EndGlobalSection
+EndGlobal
